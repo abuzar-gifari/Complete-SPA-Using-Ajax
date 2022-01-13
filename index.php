@@ -12,7 +12,7 @@
 
 <body>
 
-	<div class="menu">
+	<div class="menu" style="margin-top: 20px; margin-left: 100px;">
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-12">
